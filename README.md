@@ -23,6 +23,37 @@ This week-long Bootcamp aims to:
 
 *TBA* 
 
+## Website Organization
+
+Each day of the Bootcamp is separated into a different folder within this repository. There are two types of folders: **presentation** folders (e.g., `intro_presentations/` and `faculty_presentations/`) which contain more administrative information about the program, and **module** folders (e.g., `module1a_bench-to-terminal` and `module1b_genetics-101`) that contain technical information and workshops. 
+
+```bash
+BISB-Bootcamp-2020/
+├── README.md # This document you're reading right now! 
+├── day1/
+│   ├── intro_presentations/
+│   ├── module1a_bench-to-terminal/
+│   ├── module1b_genetics-101/
+│   └── module2a_genomic-technologies-I/
+├── day2/
+│   ├── intro_presentations/
+│   ├── module2b_genomic-technologies-II/
+│   ├── module3a_best-software-practices-biologists/
+│   └── module3b_wet-lab-sausage/
+├── day3/
+│   ├── intro_presentations/
+│   └── module4_hpc-crash-course/
+├── day4/
+│   ├── module5_bioinformatics-introduction/
+│   ├── module6_pair-programming/
+│   └── module7_machine-learning-101/
+├── day5/
+│   ├── module8a_microbiome-elective/
+│   ├── module8b_cancer-genomics-elective/
+│   └── module8c_dev-bio-elective/
+└── faculty_presentations/
+```
+
 ## General Resources
 
 * Bioinformatics & Systems Biology Program website: https://bioinformatics.ucsd.edu/
