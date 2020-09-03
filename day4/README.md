@@ -17,4 +17,4 @@ There will also be a short talk on the "Funding Obligations" of students in the 
 | 12:45 PM - 1:15 PM  | **Faculty Presentation**<br>Interpreting genetic variation in tumor genomes           | Hannah Carter, Ph.D.                                 |
 | 1:15 PM - 1:30 PM   | *Break*                                                                               | -                                                    |
 | 1:30 PM - 2:30 PM   | **Module 6**: Pair Programming                                                        | Owen Chapman<br>*Bootcamp Instructor*                |
-| 2:30 PM - 4:00 PM   | **Module 5**: Introduction to Machine Learning                                        | Cameron Martino<br>*Bootcamp Instructor*             |
+| 2:30 PM - 4:00 PM   | **Module 7**: Introduction to Machine Learning                                        | Cameron Martino<br>*Bootcamp Instructor*             |
