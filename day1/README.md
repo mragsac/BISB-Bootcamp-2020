@@ -2,7 +2,7 @@
 
 For the first day of Bootcamp, we will be focusing on the administrative details of the Bioinformatics & Systems Biology doctoral program. 
 
-We will also have two modules running simultaneously: one for those with a background in molecular biology (marked with `[BIO]` in the schedule), and another for those with a background in computational work (marked with `CSE]` in the schedule).
+We will also have two modules running simultaneously: one for those with a background in molecular biology (marked with `[BIO]` in the schedule), and another for those with a background in computational work (marked with `[CSE]` in the schedule).
 
 ## Schedule 
 
