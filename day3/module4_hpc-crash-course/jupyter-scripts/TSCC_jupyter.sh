@@ -28,18 +28,20 @@
 #PBS -l nodes=1:ppn=2
 #PBS -l walltime=01:00:00
 
-##### Exports all user environment variables to the job (-V)
-#PBS -V
-
 ### With the next line we can specify the email(s) to recieve dianogistc information about the job 
 ### (If you would like to include multiple emails, separate them with commas!)
 #PBS -M mragsac@eng.ucsd.edu
 
 ### The (-m) flag designates the type of notifications to recieve: 
-### n : no mail sent      a : mail sent with job [A]borted 
-###                       b : mail sent when job [B]egins
-###                       e : mail sent when job [E]nds/terminates
+### n : [N]o mail sent      a : mail sent with job [A]borted 
+###                         b : mail sent when job [B]egins
+###                         e : mail sent when job [E]nds/terminates
 #PBS -m n
+
+##### Exports all user environment variables to the job (-V)
+#PBS -V
+
+#######################################################
 
 ### More information about job submission scripts can be found in the TSCC User Guide:
 ### --------------> https://www.sdsc.edu/support/user_guides/tscc.html <--------------
