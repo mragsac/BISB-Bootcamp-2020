@@ -13,16 +13,14 @@ This module serves as an introduction to using high-performance computing (HPC) 
 1. Be able to log into the `Triton Shared Compute Cluster (TSCC)` system with the `ssh` command
 2. Run **interactive** and **non-interactive** compute jobs using a job scheduler system (e.g., the `PBS`/`TORQUE`-based job scheduling system offered on `TSCC`)
 3. Transfer files to the cluster for analyses using the `wget` command
-3. Create and change environments using the `conda` package manager
-4. Install packages using the `conda` package manager
-5. Launch Jupyter Notebooks with a Python or R kernel
-6. Write and Run basic UNIX, Python, and R scripts on the Command Line
+4. Launch Jupyter Notebooks with a Python or R kernel
+5. Write and Run basic UNIX, Python, and R scripts on the Command Line
 
 ## Module 4 Setup Instructions
 
 The shell (also known as the "terminal" or "command line interface") is a program that allows us to send commands to the computer to recieve some sort of output. Before we start this module, it is important that you install the necessary UNIX Shell program software for your operating system. While we will provide some configuration help at the beginning of the module, it is **highly recommended** that these tools are configured beforehand.
 
-If you need help configuring your system, please refer to Module 1a: Bench to Terminal.
+If you need help configuring your system, please refer to [Module 1a: Bench to Terminal](https://github.com/mragsac/BISB-Bootcamp-2020/tree/master/day1/module1a_bench-to-terminal).
 
 ### Requirements
 
