@@ -36,7 +36,7 @@ https://docs.google.com/presentation/d/1kUSg2BIn7K6VPMsXeiTBUf92P8GpfddPPAP3mMHC
 
       ![](images/create-new-repo.png)
       
-    - Give it a <repository-name>
+    - Give it a \<repository-name\>
     - Other options (ignore for now)
     - Create Repository
 - Create a local clone
