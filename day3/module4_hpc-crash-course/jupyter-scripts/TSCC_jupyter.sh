@@ -11,7 +11,7 @@
 ### *condo is the queue for people who own nodes on TSCC who need more resources than the nodes they own,
 ### *glean is the free queue for people who own nodes on TSCC based on open resources,
 ### *home  is the queue for people who own nodes on TSCC who wish to use the nodes they've purchased
-#PBS -q condo
+#PBS -q hotel
 
 ### The name of the job (-N) is set as "analysis-jupyter"
 #PBS -N analysis-jupyter
