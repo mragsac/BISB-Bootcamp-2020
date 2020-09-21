@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
 .instructor
+**/.ipynb_checkpoints
+**/.vscode
