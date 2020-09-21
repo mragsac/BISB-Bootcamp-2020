@@ -4,11 +4,31 @@ Welcome to the course website for the Bioinformatics & Systems Biology Fall Quar
 
 ## Course Instructors
 
+This course is entirely taught by graduate students! There are three main instructors for the course from the Bioinformatics & Systems Biology program. The main instructors teach the majority of "learning modules", along with lectures that contain helpful graduate school knoweldge. There are also quite a few guest instructors that will also be joining the course! 
+
+### Main Instructors
+
 | Name                  | Email Address                                         | Year and Track in BISB                         | Advisor      |
 | --------------------- | ----------------------------------------------------- | ---------------------------------------------- | ------------ |
-| Owen Chapman          | [ochapman@eng.ucsd.edu](mailto:ochapman@eng.ucsd.edu) | 4th Year, Department of Biomedical Informatics | Jill Mesirov |
+| Owen Chapman          | [ochapman@eng.ucsd.edu](mailto:ochapman@eng.ucsd.edu) | 4th Year, Department of Biomedical Informatics | Lukas Chavez |
 | Cameron Martino       | [cmartino@eng.ucsd.edu](mailto:cmartino@eng.ucsd.edu) | 3rd Year, Bioinformatics & Systems Biology     | Rob Knight   |
 | Michelle Franc Ragsac | [mragsac@eng.ucsd.edu](mailto:mragsac@eng.ucsd.edu)   | 3rd Year, Bioinformatics & Systems Biology     | Emma Farley  |
+
+### Guest Instructors 
+
+| Name                  | Year and Program                           | Advisor                            |
+| --------------------- | -------------------------------------------| ---------------------------------- |
+| Alex Tankka           | 2nd Year, Biomedical Sciences              | Gene Yeo                           |
+| Sara Elmsaouri        | 3rd Year, Biomedical Sciences              | Gene Yeo                           |
+| Danielle Schafer      | 3rd Year, Biomedical Sciences              | Gene Yeo                           |
+| Alexander Wenzel      | 4th Year, Biomedical Informatics           | Jill Mesirov                       |
+| Clarence Mah          | 3rd Year, Bioinformatics & Systems Biology | Gene Yeo<br>Hannah Carter          |
+| Maya Gosztyla         | 2nd Year, Biomedical Sciences              | Gene Yeo                           |
+| Noorsher Ahmed        | 4th Year, Biomedical Sciences              | Gene Yeo                           |
+| Margaret Burns        | 4th Year, Biomedical Sciences              | Gene Yeo                           |
+| Adam Officer          | 3rd Year, Biomedical Informatics           | Olivier Harismendy<br>Pablo Tamayo |
+| George Armstrong      | 3rd Year, Bioinformatics & Systems Biology | Rob Knight                         |
+| Gibraan Rahman        | 3rd Year, Bioinformatics & Systems Biology | Rob Knight                         |
 
 ## Goals of the Bootcamp
 
