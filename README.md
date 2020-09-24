@@ -50,7 +50,6 @@ BISB-Bootcamp-2020/
 │   ├── module5_bioinformatics-introduction
 │   ├── module6_pair-programming
 │   └── module7_machine-learning-101 (CM)
-│   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mragsac/BISB-Bootcamp-2020/master)
 ├── day5
 │   ├── intro_presentations
 │   └── module8_software-engineering-on-a-team
