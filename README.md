@@ -38,8 +38,8 @@ BISB-Bootcamp-2020/
 │   └── module1b_genetics-101
 ├── day2
 │   ├── intro_presentations
-│   ├── module2a_genomic-technologies-I (CM)
-│   ├── module2b_genomic-technologies-II (CM)
+│   ├── module2a_genomic-technologies-I
+│   ├── module2b_genomic-technologies-II
 │   ├── module3a_best-software-practices-biologists
 │   └── module3b_wet-lab-sausage
 ├── day3
@@ -49,7 +49,7 @@ BISB-Bootcamp-2020/
 │   ├── intro_presentations
 │   ├── module5_bioinformatics-introduction
 │   ├── module6_pair-programming
-│   └── module7_machine-learning-101 (CM)
+│   └── module7_machine-learning-101
 ├── day5
 │   ├── intro_presentations
 │   └── module8_software-engineering-on-a-team
