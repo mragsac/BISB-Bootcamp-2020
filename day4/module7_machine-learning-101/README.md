@@ -1,4 +1,9 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mragsac/BISB-Bootcamp-2020/master)
+
+
 # Machine Learning 101
+
 BISB Bootcamp 2020
 
 Author: Cameron Martino, cmartino at eng dot ucsd dot edu
