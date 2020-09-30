@@ -47,7 +47,7 @@ Additionally, each `day#` folder within this repo has the schedule for that spec
 
 ## Website Organization
 
-Each day of the Bootcamp is separated into a different folder within this repository. There are two types of folders: **presentation** folders (e.g., `intro_presentations/` and `faculty_presentations/`) which contain more administrative information about the program, and **module** folders (e.g., `module1a_bench-to-terminal` and `module1b_genetics-101`) that contain technical information and workshops. 
+Each day of the Bootcamp is separated into a different folder within this repository. There are two types of folders: **presentation** folders (e.g., `intro_presentations/`) which contain more general information about the program, and **module** folders (e.g., `module1a_bench-to-terminal` and `module1b_genetics-101`) that contain technical information and workshops. 
 
 ```bash
 BISB-Bootcamp-2020/
@@ -71,9 +71,8 @@ BISB-Bootcamp-2020/
 │   ├── module7_machine-learning-101
 │   └── BMS_extra-Image-processing
 ├── day5
-│   ├── intro_presentations
-│   └── module8_software-engineering-on-a-team
-└── faculty_presentations
+    ├── intro_presentations
+    └── module8_software-engineering-on-a-team
 ```
 
 ## General Resources
